@@ -1,0 +1,52 @@
+# -----------------------------
+# Virtual environments
+# -----------------------------
+venv/
+env/
+.env/
+
+# -----------------------------
+# Python cache & temp
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.log
+
+# -----------------------------
+# OS / Editor junk
+# -----------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# -----------------------------
+# Data (do not upload raw data)
+# -----------------------------
+data/raw/
+data/datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# Optional: if processed outputs get huge, ignore videos
+data/processed/*.mp4
+data/processed/*.avi
+
+# -----------------------------
+# Model weights & checkpoints
+# -----------------------------
+models/**/*.pt
+models/**/*.pth
+models/**/*.onnx
+models/**/*.h5
+
+# -----------------------------
+# Jupyter
+# -----------------------------
+.ipynb_checkpoints/
