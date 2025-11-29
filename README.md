@@ -8,8 +8,6 @@ The core goal is to leverage advanced AI techniques to fuse highly diverse, asyn
 
 ### 👤 Author Information
 
-|  |
-|  |
 | Detail | Value |
 | --- | --- |
 | Author | Shreshtha Gupta |
