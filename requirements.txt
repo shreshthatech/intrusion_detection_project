@@ -1,0 +1,22 @@
+numpy
+opencv-python
+opencv-python-headless
+scikit-learn
+scipy
+matplotlib
+pandas
+PyYAML
+tqdm
+
+# For CNN models
+torch
+torchvision
+
+# For tracking (SORT / Kalman)
+filterpy
+
+# For audio (planned, not fully implemented)
+librosa
+
+# For RF/STFT
+scipy
