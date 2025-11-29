@@ -123,9 +123,87 @@ The `data/processed/` directory includes folders for storing intermediate result
     └── README.md
     
 
+## 🛠️ Project Setup — IMPORTANT (Folder Structure + Virtual Environment)
+
+To run this project without errors, you must follow this exact folder setup.
+
+### ✅ 1. Create a main folder anywhere on your system
+
+For example: `C:\Users\yourname\Documents\project\`
+
+This will be the **parent folder**.
+
+### ✅ 2. Inside this folder, clone or copy the project
+
+Your folder should look like this:
+
+    project/
+    └── intrusion_detection_project/
+    
+
+### ✅ 3. Create the virtual environment in the parent folder (project/)
+
+⚠️ **Do NOT create venv inside intrusion\_detection\_project**, it will cause path issues.
+
+Run this inside the `project` folder:
+
+    cd project
+    python -m venv venv
+    
+
+This creates the following structure:
+
+    project/
+    │   venv/
+    │
+    └── intrusion_detection_project/
+    
+
+### ✅ 4. Activate the venv
+
+**Windows:**
+
+    venv\Scripts\activate
+    
+
+**Mac/Linux:**
+
+    source venv/bin/activate
+    
+
+### ✅ 5. Install required dependencies
+
+    pip install -r intrusion_detection_project/requirements.txt
+    
+
+### 🚫 Why venv MUST be outside the intrusion project folder?
+
+If you place `venv` inside the project folder:
+
+*   Python imports may fail.
+    
+*   File paths (`data/raw/`, `models/`, `processed/`) may break.
+    
+*   Git status becomes messy.
+    
+*   GitHub uploads unnecessary files.
+    
+*   Some scripts cannot find relative directories.
+    
+*   Some IDEs confuse `venv` with project code.
+    
+
+By keeping it outside, everything works cleanly.
+
 ## ▶️ Running the Current Code (Updated Demo Scripts)
 
-Since this is a developing project, **only certain scripts are runnable** right now.
+🎉 **After setup, you can run scripts like:**
+
+    # src/vision/motion_mask_cnn.py
+    
+    # src/tracking/sort_tracker.py
+    
+    # src/data_pipeline/sliding_window_builder.py
 
 ### 1️⃣ Vision Preprocessing & Masking
 
