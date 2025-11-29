@@ -1,0 +1,26 @@
+[
+  {
+    "time": 5.0,
+    "agent_id": "A1",
+    "zone": "lobby",
+    "event": "arrive"
+  },
+  {
+    "time": 5.0,
+    "agent_id": "A2",
+    "zone": "perimeter_fence",
+    "event": "arrive"
+  },
+  {
+    "time": 14.0,
+    "agent_id": "A1",
+    "zone": "corridor",
+    "event": "arrive"
+  },
+  {
+    "time": 28.0,
+    "agent_id": "A1",
+    "zone": "server_room",
+    "event": "arrive"
+  }
+]

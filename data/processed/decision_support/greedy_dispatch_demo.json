@@ -1,0 +1,32 @@
+[
+  {
+    "incident_id": "I1",
+    "zone": "server_room",
+    "unit_id": "U3",
+    "travel_time": 15.0,
+    "path": [
+      "corridor",
+      "server_room"
+    ]
+  },
+  {
+    "incident_id": "I2",
+    "zone": "perimeter_fence",
+    "unit_id": "U2",
+    "travel_time": 20.0,
+    "path": [
+      "parking",
+      "perimeter_fence"
+    ]
+  },
+  {
+    "incident_id": "I3",
+    "zone": "lobby",
+    "unit_id": "U1",
+    "travel_time": 12.0,
+    "path": [
+      "gate",
+      "lobby"
+    ]
+  }
+]

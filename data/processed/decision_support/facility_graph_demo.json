@@ -1,0 +1,9 @@
+{
+  "path": [
+    "gate",
+    "lobby",
+    "corridor",
+    "server_room"
+  ],
+  "cost": 35.0
+}

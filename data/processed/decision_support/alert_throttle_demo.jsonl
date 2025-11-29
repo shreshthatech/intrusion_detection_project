@@ -1,0 +1,6 @@
+ALERT-FIRED event=e1 risk=1.20 reason=burst-ok
+ALERT-FIRED event=e2 risk=1.10 reason=burst-ok
+SUPPRESSED event=e3 risk=1.30 reason=cooldown
+SUPPRESSED event=e4 risk=0.95 reason=cooldown
+SUPPRESSED event=e5 risk=1.40 reason=cooldown
+SUPPRESSED event=e6 risk=1.10 reason=cooldown

@@ -1,0 +1,78 @@
+{"frame_idx": 0, "detections": [{"frame_idx": 0, "label": "person", "confidence": 0.46987858414649963, "bbox": [734, 463, 821, 658]}]}
+{"frame_idx": 3, "detections": [{"frame_idx": 3, "label": "person", "confidence": 0.5772664546966553, "bbox": [750, 478, 820, 679]}]}
+{"frame_idx": 4, "detections": [{"frame_idx": 4, "label": "person", "confidence": 0.5788334608078003, "bbox": [750, 478, 820, 679]}]}
+{"frame_idx": 5, "detections": [{"frame_idx": 5, "label": "person", "confidence": 0.48557204008102417, "bbox": [748, 487, 828, 685]}, {"frame_idx": 5, "label": "person", "confidence": 0.41397079825401306, "bbox": [820, 454, 899, 640]}]}
+{"frame_idx": 7, "detections": [{"frame_idx": 7, "label": "person", "confidence": 0.5524924397468567, "bbox": [940, 425, 1023, 613]}, {"frame_idx": 7, "label": "person", "confidence": 0.4659930169582367, "bbox": [797, 445, 898, 666]}]}
+{"frame_idx": 8, "detections": [{"frame_idx": 8, "label": "person", "confidence": 0.6404980421066284, "bbox": [937, 426, 1022, 611]}, {"frame_idx": 8, "label": "person", "confidence": 0.4826236665248871, "bbox": [793, 443, 892, 667]}]}
+{"frame_idx": 9, "detections": [{"frame_idx": 9, "label": "person", "confidence": 0.6851097941398621, "bbox": [932, 426, 1020, 614]}, {"frame_idx": 9, "label": "person", "confidence": 0.5562303066253662, "bbox": [788, 442, 894, 668]}]}
+{"frame_idx": 10, "detections": [{"frame_idx": 10, "label": "person", "confidence": 0.5860129594802856, "bbox": [789, 439, 893, 679]}, {"frame_idx": 10, "label": "person", "confidence": 0.4803806245326996, "bbox": [927, 420, 1010, 609]}]}
+{"frame_idx": 11, "detections": [{"frame_idx": 11, "label": "person", "confidence": 0.5293421745300293, "bbox": [926, 419, 1008, 608]}, {"frame_idx": 11, "label": "person", "confidence": 0.40932777523994446, "bbox": [791, 443, 894, 675]}]}
+{"frame_idx": 12, "detections": [{"frame_idx": 12, "label": "person", "confidence": 0.4749547243118286, "bbox": [788, 435, 895, 689]}, {"frame_idx": 12, "label": "person", "confidence": 0.4492683708667755, "bbox": [915, 420, 1003, 610]}]}
+{"frame_idx": 13, "detections": [{"frame_idx": 13, "label": "person", "confidence": 0.40764737129211426, "bbox": [784, 430, 890, 706]}]}
+{"frame_idx": 14, "detections": [{"frame_idx": 14, "label": "person", "confidence": 0.45272165536880493, "bbox": [916, 422, 992, 610]}, {"frame_idx": 14, "label": "person", "confidence": 0.42315226793289185, "bbox": [798, 425, 886, 690]}]}
+{"frame_idx": 15, "detections": [{"frame_idx": 15, "label": "person", "confidence": 0.7168472409248352, "bbox": [913, 420, 992, 610]}]}
+{"frame_idx": 16, "detections": [{"frame_idx": 16, "label": "person", "confidence": 0.7053436040878296, "bbox": [913, 420, 992, 610]}]}
+{"frame_idx": 17, "detections": [{"frame_idx": 17, "label": "person", "confidence": 0.6517052054405212, "bbox": [908, 424, 995, 607]}]}
+{"frame_idx": 18, "detections": [{"frame_idx": 18, "label": "person", "confidence": 0.4705917537212372, "bbox": [907, 421, 995, 602]}]}
+{"frame_idx": 25, "detections": [{"frame_idx": 25, "label": "person", "confidence": 0.4429425001144409, "bbox": [775, 429, 833, 579]}]}
+{"frame_idx": 26, "detections": [{"frame_idx": 26, "label": "person", "confidence": 0.44661957025527954, "bbox": [774, 427, 833, 583]}]}
+{"frame_idx": 27, "detections": [{"frame_idx": 27, "label": "person", "confidence": 0.4231519103050232, "bbox": [775, 426, 832, 582]}]}
+{"frame_idx": 28, "detections": [{"frame_idx": 28, "label": "person", "confidence": 0.4499262571334839, "bbox": [775, 426, 832, 582]}]}
+{"frame_idx": 31, "detections": [{"frame_idx": 31, "label": "person", "confidence": 0.4352431893348694, "bbox": [777, 422, 832, 584]}]}
+{"frame_idx": 32, "detections": [{"frame_idx": 32, "label": "person", "confidence": 0.4589388072490692, "bbox": [772, 423, 828, 583]}]}
+{"frame_idx": 33, "detections": [{"frame_idx": 33, "label": "person", "confidence": 0.5118716955184937, "bbox": [772, 422, 832, 582]}]}
+{"frame_idx": 34, "detections": [{"frame_idx": 34, "label": "person", "confidence": 0.7167645692825317, "bbox": [769, 421, 832, 586]}, {"frame_idx": 34, "label": "person", "confidence": 0.5057117938995361, "bbox": [814, 425, 872, 586]}]}
+{"frame_idx": 35, "detections": [{"frame_idx": 35, "label": "person", "confidence": 0.5799828171730042, "bbox": [767, 419, 831, 583]}]}
+{"frame_idx": 36, "detections": [{"frame_idx": 36, "label": "person", "confidence": 0.4458326995372772, "bbox": [773, 418, 833, 581]}]}
+{"frame_idx": 38, "detections": [{"frame_idx": 38, "label": "person", "confidence": 0.4585607051849365, "bbox": [772, 418, 831, 579]}]}
+{"frame_idx": 39, "detections": [{"frame_idx": 39, "label": "person", "confidence": 0.4229733347892761, "bbox": [774, 418, 831, 578]}]}
+{"frame_idx": 40, "detections": [{"frame_idx": 40, "label": "person", "confidence": 0.4109615683555603, "bbox": [775, 418, 831, 578]}]}
+{"frame_idx": 41, "detections": [{"frame_idx": 41, "label": "person", "confidence": 0.5457183718681335, "bbox": [837, 425, 889, 576]}, {"frame_idx": 41, "label": "person", "confidence": 0.48128339648246765, "bbox": [773, 423, 826, 573]}, {"frame_idx": 41, "label": "person", "confidence": 0.41486719250679016, "bbox": [858, 426, 913, 579]}]}
+{"frame_idx": 42, "detections": [{"frame_idx": 42, "label": "person", "confidence": 0.4955057203769684, "bbox": [838, 424, 891, 574]}, {"frame_idx": 42, "label": "person", "confidence": 0.466485857963562, "bbox": [763, 413, 826, 570]}]}
+{"frame_idx": 43, "detections": [{"frame_idx": 43, "label": "person", "confidence": 0.5553603172302246, "bbox": [842, 425, 895, 573]}, {"frame_idx": 43, "label": "person", "confidence": 0.45092132687568665, "bbox": [759, 413, 824, 568]}]}
+{"frame_idx": 44, "detections": [{"frame_idx": 44, "label": "person", "confidence": 0.4834732115268707, "bbox": [839, 426, 892, 574]}, {"frame_idx": 44, "label": "person", "confidence": 0.4613247513771057, "bbox": [758, 412, 823, 569]}]}
+{"frame_idx": 45, "detections": [{"frame_idx": 45, "label": "person", "confidence": 0.4257092773914337, "bbox": [758, 410, 823, 568]}]}
+{"frame_idx": 46, "detections": [{"frame_idx": 46, "label": "person", "confidence": 0.5082005262374878, "bbox": [754, 411, 821, 566]}, {"frame_idx": 46, "label": "person", "confidence": 0.47165122628211975, "bbox": [837, 422, 892, 574]}]}
+{"frame_idx": 47, "detections": [{"frame_idx": 47, "label": "person", "confidence": 0.49192845821380615, "bbox": [752, 414, 817, 565]}, {"frame_idx": 47, "label": "person", "confidence": 0.4809192419052124, "bbox": [836, 421, 891, 572]}]}
+{"frame_idx": 48, "detections": [{"frame_idx": 48, "label": "person", "confidence": 0.506930947303772, "bbox": [833, 420, 889, 574]}, {"frame_idx": 48, "label": "person", "confidence": 0.48157188296318054, "bbox": [753, 412, 821, 565]}]}
+{"frame_idx": 49, "detections": [{"frame_idx": 49, "label": "person", "confidence": 0.6226286888122559, "bbox": [831, 404, 897, 569]}, {"frame_idx": 49, "label": "person", "confidence": 0.5943204760551453, "bbox": [755, 407, 821, 565]}]}
+{"frame_idx": 50, "detections": [{"frame_idx": 50, "label": "person", "confidence": 0.5760160684585571, "bbox": [753, 407, 817, 566]}, {"frame_idx": 50, "label": "person", "confidence": 0.5677348971366882, "bbox": [832, 406, 895, 568]}]}
+{"frame_idx": 51, "detections": [{"frame_idx": 51, "label": "person", "confidence": 0.6122943758964539, "bbox": [753, 404, 819, 564]}, {"frame_idx": 51, "label": "person", "confidence": 0.5797581672668457, "bbox": [826, 404, 888, 563]}]}
+{"frame_idx": 52, "detections": [{"frame_idx": 52, "label": "person", "confidence": 0.6184167265892029, "bbox": [753, 404, 819, 564]}, {"frame_idx": 52, "label": "person", "confidence": 0.5808843970298767, "bbox": [826, 404, 888, 563]}]}
+{"frame_idx": 53, "detections": [{"frame_idx": 53, "label": "person", "confidence": 0.6753308773040771, "bbox": [828, 404, 886, 563]}, {"frame_idx": 53, "label": "person", "confidence": 0.6155224442481995, "bbox": [760, 406, 818, 562]}]}
+{"frame_idx": 54, "detections": [{"frame_idx": 54, "label": "person", "confidence": 0.694804847240448, "bbox": [826, 404, 886, 562]}, {"frame_idx": 54, "label": "person", "confidence": 0.6624431014060974, "bbox": [759, 406, 819, 561]}]}
+{"frame_idx": 55, "detections": [{"frame_idx": 55, "label": "person", "confidence": 0.6869691610336304, "bbox": [822, 402, 885, 563]}, {"frame_idx": 55, "label": "person", "confidence": 0.5840446949005127, "bbox": [766, 404, 825, 560]}]}
+{"frame_idx": 56, "detections": [{"frame_idx": 56, "label": "person", "confidence": 0.7251676917076111, "bbox": [816, 402, 885, 563]}, {"frame_idx": 56, "label": "person", "confidence": 0.6147702932357788, "bbox": [762, 402, 825, 560]}]}
+{"frame_idx": 57, "detections": [{"frame_idx": 57, "label": "person", "confidence": 0.7271750569343567, "bbox": [812, 403, 883, 564]}, {"frame_idx": 57, "label": "person", "confidence": 0.6367769837379456, "bbox": [758, 403, 823, 561]}]}
+{"frame_idx": 58, "detections": [{"frame_idx": 58, "label": "person", "confidence": 0.6521581411361694, "bbox": [764, 405, 825, 559]}, {"frame_idx": 58, "label": "person", "confidence": 0.6342868208885193, "bbox": [810, 405, 878, 562]}]}
+{"frame_idx": 59, "detections": [{"frame_idx": 59, "label": "person", "confidence": 0.6954855918884277, "bbox": [767, 404, 828, 559]}, {"frame_idx": 59, "label": "person", "confidence": 0.6902852058410645, "bbox": [807, 404, 876, 562]}]}
+{"frame_idx": 60, "detections": [{"frame_idx": 60, "label": "person", "confidence": 0.73816978931427, "bbox": [763, 402, 826, 559]}, {"frame_idx": 60, "label": "person", "confidence": 0.6732149124145508, "bbox": [806, 402, 873, 560]}]}
+{"frame_idx": 61, "detections": [{"frame_idx": 61, "label": "person", "confidence": 0.7736883759498596, "bbox": [764, 402, 825, 559]}, {"frame_idx": 61, "label": "person", "confidence": 0.7441567182540894, "bbox": [806, 401, 874, 562]}, {"frame_idx": 61, "label": "person", "confidence": 0.5348705053329468, "bbox": [722, 401, 780, 560]}]}
+{"frame_idx": 62, "detections": [{"frame_idx": 62, "label": "person", "confidence": 0.7508469820022583, "bbox": [768, 401, 827, 558]}, {"frame_idx": 62, "label": "person", "confidence": 0.708624005317688, "bbox": [803, 401, 871, 560]}, {"frame_idx": 62, "label": "person", "confidence": 0.5518566370010376, "bbox": [720, 401, 779, 558]}]}
+{"frame_idx": 63, "detections": [{"frame_idx": 63, "label": "person", "confidence": 0.7302724719047546, "bbox": [770, 400, 829, 551]}, {"frame_idx": 63, "label": "person", "confidence": 0.5901541709899902, "bbox": [794, 402, 859, 554]}, {"frame_idx": 63, "label": "person", "confidence": 0.4824735224246979, "bbox": [716, 400, 776, 552]}]}
+{"frame_idx": 64, "detections": [{"frame_idx": 64, "label": "person", "confidence": 0.7252265810966492, "bbox": [771, 401, 829, 551]}, {"frame_idx": 64, "label": "person", "confidence": 0.5840250849723816, "bbox": [794, 402, 859, 554]}, {"frame_idx": 64, "label": "person", "confidence": 0.4825294315814972, "bbox": [716, 401, 775, 552]}]}
+{"frame_idx": 65, "detections": [{"frame_idx": 65, "label": "person", "confidence": 0.7596931457519531, "bbox": [768, 399, 827, 550]}, {"frame_idx": 65, "label": "person", "confidence": 0.5227065086364746, "bbox": [790, 401, 854, 553]}, {"frame_idx": 65, "label": "person", "confidence": 0.44918423891067505, "bbox": [720, 399, 777, 552]}]}
+{"frame_idx": 66, "detections": [{"frame_idx": 66, "label": "person", "confidence": 0.6928753852844238, "bbox": [769, 399, 829, 547]}, {"frame_idx": 66, "label": "person", "confidence": 0.46165406703948975, "bbox": [792, 401, 855, 550]}]}
+{"frame_idx": 67, "detections": [{"frame_idx": 67, "label": "person", "confidence": 0.6773028373718262, "bbox": [764, 396, 833, 549]}]}
+{"frame_idx": 68, "detections": [{"frame_idx": 68, "label": "person", "confidence": 0.633478045463562, "bbox": [759, 397, 833, 548]}]}
+{"frame_idx": 69, "detections": [{"frame_idx": 69, "label": "person", "confidence": 0.6783082485198975, "bbox": [765, 398, 832, 547]}, {"frame_idx": 69, "label": "person", "confidence": 0.4336642026901245, "bbox": [707, 397, 768, 545]}]}
+{"frame_idx": 70, "detections": [{"frame_idx": 70, "label": "person", "confidence": 0.6706961989402771, "bbox": [761, 395, 833, 548]}]}
+{"frame_idx": 71, "detections": [{"frame_idx": 71, "label": "person", "confidence": 0.6665158867835999, "bbox": [758, 395, 835, 547]}]}
+{"frame_idx": 74, "detections": [{"frame_idx": 74, "label": "person", "confidence": 0.6604523062705994, "bbox": [762, 395, 835, 546]}]}
+{"frame_idx": 75, "detections": [{"frame_idx": 75, "label": "person", "confidence": 0.6442916989326477, "bbox": [769, 395, 830, 542]}]}
+{"frame_idx": 76, "detections": [{"frame_idx": 76, "label": "person", "confidence": 0.6540520191192627, "bbox": [769, 395, 830, 542]}]}
+{"frame_idx": 77, "detections": [{"frame_idx": 77, "label": "person", "confidence": 0.6097895503044128, "bbox": [763, 395, 823, 540]}]}
+{"frame_idx": 78, "detections": [{"frame_idx": 78, "label": "person", "confidence": 0.5275976657867432, "bbox": [762, 395, 820, 537]}]}
+{"frame_idx": 79, "detections": [{"frame_idx": 79, "label": "person", "confidence": 0.536841630935669, "bbox": [761, 395, 819, 538]}]}
+{"frame_idx": 80, "detections": [{"frame_idx": 80, "label": "person", "confidence": 0.5635975003242493, "bbox": [763, 395, 820, 538]}, {"frame_idx": 80, "label": "person", "confidence": 0.4478538930416107, "bbox": [702, 394, 761, 539]}]}
+{"frame_idx": 81, "detections": [{"frame_idx": 81, "label": "person", "confidence": 0.47396615147590637, "bbox": [766, 396, 821, 535]}]}
+{"frame_idx": 82, "detections": [{"frame_idx": 82, "label": "person", "confidence": 0.4279947280883789, "bbox": [762, 393, 822, 536]}]}
+{"frame_idx": 83, "detections": [{"frame_idx": 83, "label": "person", "confidence": 0.45424196124076843, "bbox": [761, 390, 824, 537]}]}
+{"frame_idx": 90, "detections": [{"frame_idx": 90, "label": "person", "confidence": 0.4245545566082001, "bbox": [757, 394, 817, 533]}]}
+{"frame_idx": 94, "detections": [{"frame_idx": 94, "label": "person", "confidence": 0.5253963470458984, "bbox": [739, 377, 815, 526]}, {"frame_idx": 94, "label": "person", "confidence": 0.45526835322380066, "bbox": [688, 382, 766, 524]}]}
+{"frame_idx": 284, "detections": [{"frame_idx": 284, "label": "person", "confidence": 0.44545185565948486, "bbox": [573, 300, 638, 487]}]}
+{"frame_idx": 285, "detections": [{"frame_idx": 285, "label": "person", "confidence": 0.524978518486023, "bbox": [571, 306, 635, 480]}]}
+{"frame_idx": 286, "detections": [{"frame_idx": 286, "label": "person", "confidence": 0.5446364283561707, "bbox": [574, 309, 632, 476]}]}
+{"frame_idx": 288, "detections": [{"frame_idx": 288, "label": "person", "confidence": 0.4524710774421692, "bbox": [576, 309, 635, 473]}]}
+{"frame_idx": 289, "detections": [{"frame_idx": 289, "label": "person", "confidence": 0.4605604410171509, "bbox": [571, 302, 637, 476]}]}
+{"frame_idx": 358, "detections": [{"frame_idx": 358, "label": "person", "confidence": 0.4252029061317444, "bbox": [919, 373, 995, 514]}]}

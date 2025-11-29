@@ -1,0 +1,52 @@
+[
+  {
+    "scenario": "Camera outage + fog",
+    "camera_ok": false,
+    "audio_ok": true,
+    "rf_ok": true,
+    "weather": "fog",
+    "detection_drop_percent": 65.0,
+    "response_delay_factor": 1.4,
+    "recommended_strategy": "Use thermal + RF + acoustic triangulation."
+  },
+  {
+    "scenario": "Audio outage + rain",
+    "camera_ok": true,
+    "audio_ok": false,
+    "rf_ok": true,
+    "weather": "rain",
+    "detection_drop_percent": 35.0,
+    "response_delay_factor": 1.2,
+    "recommended_strategy": "Prioritise vision + RF confidence."
+  },
+  {
+    "scenario": "RF outage + night",
+    "camera_ok": true,
+    "audio_ok": true,
+    "rf_ok": false,
+    "weather": "night",
+    "detection_drop_percent": 35.0,
+    "response_delay_factor": 1.5,
+    "recommended_strategy": "Rely on vision/acoustics + geofence rules."
+  },
+  {
+    "scenario": "All sensors OK \u2013 rain",
+    "camera_ok": true,
+    "audio_ok": true,
+    "rf_ok": true,
+    "weather": "rain",
+    "detection_drop_percent": 15.0,
+    "response_delay_factor": 1.2,
+    "recommended_strategy": "All sensors normal."
+  },
+  {
+    "scenario": "Total outage \u2013 night",
+    "camera_ok": false,
+    "audio_ok": false,
+    "rf_ok": false,
+    "weather": "night",
+    "detection_drop_percent": 95.0,
+    "response_delay_factor": 1.5,
+    "recommended_strategy": "Switch to perimeter-only patrols + manual escalation."
+  }
+]
